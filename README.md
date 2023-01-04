@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me linkedn
+- 📫 How to reach me linkedn/linkedin.com/in/burak-toryan-3a526b235
 
 <!---
 ToryanBurak/ToryanBurak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
