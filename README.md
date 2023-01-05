@@ -2,5 +2,6 @@
 
 <p> Welcome to my page! </br> I'm Burak, .Net Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="15"> in Tekirdağ </p>
 <p> Things I Code With 
-<img alt="C#" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" Width="15">
+  
+<img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" Width="25">
 <hr>
