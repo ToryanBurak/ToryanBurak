@@ -2,4 +2,4 @@
 
 <p> Welcome to my page! </br> I'm Burak, .Net Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="15"> in Tekirdağ </p>
 
-</hr>
+<hr>
