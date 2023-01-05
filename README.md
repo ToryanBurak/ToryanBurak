@@ -4,4 +4,5 @@
 <p> Things I Code With 
 <p>
 <img alt=".NET" src="https://cdn-icons-png.flaticon.com/512/2748/2748383.png" Width="40">
+<img alt="SQL" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" Width="40">
 <hr>
