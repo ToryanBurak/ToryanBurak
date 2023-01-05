@@ -4,5 +4,5 @@
 <p> Things I Code With 
   
 <img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" Width="25">
-![Brave]("https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white")
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <hr>
