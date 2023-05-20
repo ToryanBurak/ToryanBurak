@@ -12,6 +12,7 @@ I'm Studying Computer Sciences at Namık Kemal University
 <img alt="CSS" src="https://pics.freeicons.io/uploads/icons/png/21337745421536211768-512.png" Width="50">
 <img alt="Javascript" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" Width="50">
 <img alt="Bootstrap" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" Width="50">
+<img alt="Bootstrap" src="https://logodix.com/logo/1796973.jpg" Height="50">
 
 <hr>
 Where To Find Me
